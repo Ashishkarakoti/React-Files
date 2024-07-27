@@ -1,0 +1,19 @@
+.nav1{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 3rem;
+  background-color: rgb(236, 229, 229);
+  column-gap: 5rem;
+}
+
+.link{
+  text-decoration: none;
+  color: green;
+  font-size: 2rem;
+}
+
+.link:hover {
+  color: greenyellow;
+  transition: ease;
+}

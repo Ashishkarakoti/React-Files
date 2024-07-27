@@ -1,0 +1,21 @@
+.head{
+  text-align: center;
+  height: 100px;
+  width: 300px;
+  border: 4px solid green;
+  border-radius: 10px;
+}
+
+.inp{
+  border-radius: 5px;
+  border-color: greenyellow;
+  width: 225px;
+}
+
+.inp:on
+
+.but{
+  border-radius: 5px;
+  background-color: greenyellow;
+  width: 75px;
+}

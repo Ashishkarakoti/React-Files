@@ -1,0 +1,14 @@
+.box{
+  display: flex;
+}
+
+.cover{
+  display: flex;
+  height: 20rem;
+  
+}
+
+.title{
+  display: flex;
+  color: red;
+}
